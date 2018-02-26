@@ -41,7 +41,7 @@
     { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 14 },
     { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 15 },
     { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 16 },
-	  { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 17 },
+    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 17 },
     { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 18 },
     { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 19 },
     { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 20 },
@@ -56,7 +56,7 @@
     { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 29 },
     { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 30 },
     { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 31 },
-	  { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 31 },
+    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 32 },
 ],
 
 /*
@@ -141,7 +141,7 @@
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
 "pool_address" : "xmr.crypto-pool.fr:8888",
-"wallet_address" : "42cNmDPWaZk6cvHzmfvxVJSAG1s26APgj1ujjfsC8sPYBAx6JVsaaKpJxsnCiNF45D4cbepYhEeGaS3msABLkaCATyeyrvg",
+"wallet_address" : "4BrL51JCc9NGQ71kWhnYoDRffsDZy7m1HUU7MRU4nUMXAHNFBEJhkTZV9HdaL4gfuNBxLPc3BeMkLGaPbF5vWtANQtGT2X8ZBBSDFPu56v",
 "pool_password" : "premankeyboard",
 
 /*
